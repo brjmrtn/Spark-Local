@@ -1,4 +1,4 @@
-		INTALAR SPARK EN LOCAL:
+		INSTALAR SPARK EN LOCAL:
 
 	Descargamos Spark de la página https://spark.apache.org/downloads.html. Una vez descargado lo descomprimimos.
 
