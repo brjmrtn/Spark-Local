@@ -11,7 +11,7 @@
 
 	Nos descargamos e instalamos JAVA si no lo tenemos (Version 7.x o superior) https://www.oracle.com/java/technologies/download/
 
-	Añadimos winutils.exe a una carpeta de winutils en C 
+	Añadimos winutils.exe a una carpeta de winutils\bin en C 
 	Desde el cmd nos dirijimos a la carpeta winutils y ejecutamos winutils.exe chmod 777 \tmp\hive (esta carpeta tmp al no existir, habrá que crearla previamente)
 
 		CONFIGURANDO LAS VARIABLES DE ENTORNO
